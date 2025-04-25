@@ -1,9 +1,8 @@
 # Archipelago Manual for Five Nights at Sonic's: Maniac Mania
 
 ## Notes
-- This game is a free-to-play fangame.
-You must play from a new save file, but you can edit the save file for things such as character skins. If more people want to play it, I plan to add a guide on this in the future.
-- Shop items are pre-hinted. I want Rings to not appear in the shop, but this currently doesn't work in the latest Stable.
+- You must play from a new save file, but you can edit the save file for things such as character skins. I plan to change this in the future (See #12 for details).
+- Shop items are pre-hinted. I want Rings not to appear in the shop, but I believe this currently doesn't work in the latest Manual build.
 
 ## Goals
 - Complete the Maniac Mania challenge
@@ -14,11 +13,11 @@ You must play from a new save file, but you can edit the save file for things su
 - Characters (need all the necessary characters for a challenge)
 - Shop Items (Cosmetic but needed for achievements)
 - Rings (for the Shop checks)
-- Tokens for Achievements (local and plando'd; needed for the Phantom Ian-related goals)
+- Tokens for Achievements (local and plando'd; needed for the Phantom Ian-related goals and planning on removing them once I figure out a band-aid fix)
 
 ## Checks
 - Challenges
 - Achievements
 - Jumpscares
 - Buying things in the Shop
-- Beating Phantom Ian (if Encore is your goal)
+- Beating Phantom Ian
