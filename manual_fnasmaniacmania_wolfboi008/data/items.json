@@ -1,0 +1,603 @@
+[
+	{
+		"count":1,
+		"name": "Sonic",
+		"category": ["FNaS 1", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Mario",
+		"category": ["FNaS 1", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Yoshi",
+		"category": ["FNaS 1", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Tails",
+		"category": ["FNaS 1", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "'15 Golden Sonic",
+		"category": ["FNaS 1", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Toy Sonic",
+		"category": ["FNaS 2", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Toy Mario",
+		"category": ["FNaS 2", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Toy Yoshi",
+		"category": ["FNaS 2", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Taingle",
+		"category": ["FNaS 2", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Balloon Toad",
+		"category": ["FNaS 2", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Luiginette",
+		"category": ["FNaS 2", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Withered Sonic",
+		"category": ["FNaS 2", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Withered Mario",
+		"category": ["FNaS 2", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Withered Yoshi",
+		"category": ["FNaS 2", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Withered Tails",
+		"category": ["FNaS 2", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "'17 Golden Sonic",
+		"category": ["FNaS 2", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Salvage Sonic",
+		"category": ["FNaS 3", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Withered Toy Sonic",
+		"category": ["FNaS 3", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Withered Toy Mario",
+		"category": ["FNaS 3", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Withered Toy Yoshi",
+		"category": ["FNaS 3", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Phantom Mario",
+		"category": ["FNaS 3", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Phantom Yoshi",
+		"category": ["FNaS 3", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Phantom Tails",
+		"category": ["FNaS 3", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Phantom Balloon Toad",
+		"category": ["FNaS 3", "Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Phantom Taingle",
+		"category": ["FNaS 3", "Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Phantom Luiginette",
+		"category": ["FNaS 3", "Characters"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "'27 Golden Sonic",
+		"category": ["FNaS 3", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Nightmare Sonic",
+		"category": ["FNaS 4", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Nightmare Mario",
+		"category": ["FNaS 4", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Nightmare Yoshi",
+		"category": ["FNaS 4", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Nightmare Tails",
+		"category": ["FNaS 4", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "The Toymare",
+		"category": ["FNaS 4", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Nightmare Golden Sonic",
+		"category": ["FNaS 4", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Origin Sonic",
+		"category": ["FNaS 5", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Shadow Sonic",
+		"category": ["FNaS 5", "Characters"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Clone Mighty",
+		"category": ["Toad's Crew"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Nightmaric",
+		"category": ["Toad's Crew"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Phantom Salvage Sonic",
+		"category": ["Toad's Crew"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Phantom Bew",
+		"category": ["Toad's Crew"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Plushnic & Plushtails",
+		"category": ["Toad's Crew"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Tails Doll",
+		"category": ["Toad's Crew"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Toy Tails",
+		"category": ["Toad's Crew"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Dr. Golden",
+		"category": ["Toad's Crew"],
+		"progression": true,
+    	"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Phantom Ian",
+		"category": ["HIM", "Characters"],
+		"progression": true
+	},
+	{
+		"count": "33",
+		"name": "Three Rings",
+		"category": ["Currency"],
+		"progression": true
+	},
+	{
+		"count": "1",
+		"name": "Giant Bag of Rings",
+		"category": ["Currency"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "The Letter E",
+		"category": ["Keyboard"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sonic Plushie",
+		"category": ["Plushies"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Mario Plushie",
+		"category": ["Plushies"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Yoshi Plushie",
+		"category": ["Plushies"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tails Plushie",
+		"category": ["Plushies"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "'17 Golden Sonic Plushie",
+		"category": ["Plushies"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Toy Sonic Plushie",
+		"category": ["Plushies"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Toy Mario Plushie",
+		"category": ["Plushies"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Toy Yoshi Plushie",
+		"category": ["Plushies"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Taingle Plushie",
+		"category": ["Plushies"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Luiginette Plushie",
+		"category": ["Plushies"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Nightmare Sonic Plushie",
+		"category": ["Plushies"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Nightmare Mario Plushie",
+		"category": ["Plushies"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Nightmare Yoshi Plushie",
+		"category": ["Plushies"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Nightmare Tails Plushie",
+		"category": ["Plushies"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Toymare Plushie",
+		"category": ["Plushies"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Nightmare Golden Sonic Plushie",
+		"category": ["Plushies"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Nightmaric Plushie",
+		"category": ["Plushies"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Balloon Toad Plushie",
+		"category": ["Plushies"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Lefty Sonic Plushie",
+		"category": ["Plushies"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Origin Sonic Plushie",
+		"category": ["Plushies"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Hand Prop",
+		"category": ["Props"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Star Prop",
+		"category": ["Props"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Tails Prop",
+		"category": ["Props"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Purple Prop",
+		"category": ["Props"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Paper Plate Sonic Prop",
+		"category": ["Props"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Mario Face Prop",
+		"category": ["Props"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Smiler's Mask Prop",
+		"category": ["Props"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Cone Prop",
+		"category": ["Props"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Power Moons Prop",
+		"category": ["Props"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Calendar Prop",
+		"category": ["Props"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Cupcake Prop",
+		"category": ["Props"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Golden Toy Sonic Prop",
+		"category": ["Props"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Curtain Prop",
+		"category": ["Props"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Dr. G Monitor Prop",
+		"category": ["Props"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Sonic Light Prop",
+		"category": ["Props"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "#1 Statue Prop",
+		"category": ["Props"],
+		"progression": true
+	},
+	{
+		"count":1,
+		"name": "Hard Mode Origin Sonic Skin",
+		"category": ["Skins"],
+		"progression": true,
+		"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Hard Mode '15 Golden Sonic Skin",
+		"category": ["Skins"],
+		"progression": true,
+		"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Hard Mode '17 Golden Sonic Skin",
+		"category": ["Skins"],
+		"progression": true,
+		"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Hard Mode '27 Golden Sonic Skin",
+		"category": ["Skins"],
+		"progression": true,
+		"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Hard Mode Nightmare Golden Sonic Skin",
+		"category": ["Skins"],
+		"progression": true,
+		"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "Hard Mode Shadow Sonic Skin",
+		"category": ["Skins"],
+		"progression": true,
+		"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "The Lunighttemare Skin",
+		"category": ["Skins"],
+		"progression": true,
+		"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "FNaS-Swap!Mario Skin",
+		"category": ["Skins"],
+		"progression": true,
+		"value": {"spooper":1}
+	},
+	{
+		"count":1,
+		"name": "LuigiKid Skin",
+		"category": ["Skins"],
+		"progression": true,
+		"value": {"spooper":1}
+	}
+]

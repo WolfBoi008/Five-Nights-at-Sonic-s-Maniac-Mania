@@ -1,0 +1,8 @@
+{
+  "$schema": "https://github.com/ManualForArchipelago/Manual/raw/main/schemas/Manual.game.schema.json",
+  "game": "FNaSManiacMania",
+  "creator": "WolfBoi008",
+  "filler_item_name": "Onion Rings",
+  "death_link": true,
+  "starting_items": []
+}

@@ -1,0 +1,1153 @@
+[
+	{
+		"name": "Sonic's 1",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|@FNaS 1:5|"
+	},
+	{
+		"name": "Bunny Hop",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|Mario| AND |Withered Mario| AND |Phantom Mario| AND |Nightmare Mario| AND |Luiginette|"
+	},
+	{
+		"name": "Yoshi's Island",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|Yoshi| AND |Tails| AND |Withered Yoshi| AND |Phantom Yoshi| AND |Nightmare Yoshi| AND |Nightmare Tails|"
+	},
+	{
+		"name": "Critter Lab",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|Tails| AND |Withered Tails| AND |Phantom Tails| AND |Nightmare Tails|"
+	},
+	{
+		"name": "Abandoned Sonic's 1",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|@FNaS 1:5|"
+	},
+	{
+		"name": "Sonic's 2",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|@FNaS 2:11|"
+	},
+	{
+		"name": "Plumber Trouble",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|Mario| AND |Toy Mario| AND |Luiginette| AND |Withered Mario| AND |Withered Toy Mario| AND |Phantom Mario| AND |Phantom Luiginette| AND |Nightmare Mario|"
+	},
+	{
+		"name": "Double Dinos",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|Yoshi| AND |Tails| AND |Toy Yoshi| AND |Withered Yoshi| AND |Withered Toy Yoshi| AND |Phantom Yoshi| AND |Nightmare Yoshi| AND |Nightmare Tails|"
+	},
+	{
+		"name": "Taingled Foxes",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|Tails| AND |Taingle| AND |Withered Tails| AND |Phantom Tails| AND |Phantom Taingle| AND |Nightmare Tails|"
+	},
+	{
+		"name": "Light Fright",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|'15 Golden Sonic| AND |Balloon Toad| AND |Withered Sonic| AND |Withered Tails| AND |Nightmare Tails|"
+	},
+	{
+		"name": "Bounce Blade",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|Sonic| AND |Mario| AND |Yoshi| AND |Tails| AND |Toy Sonic| AND |Withered Toy Sonic|"
+	},
+	{
+		"name": "Burning Blitz",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|Sonic| AND |Mario| AND |Yoshi| AND |Tails| AND |Toy Mario| AND |Withered Toy Mario|"
+	},
+	{
+		"name": "Splash Shooter",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|Sonic| AND |Mario| AND |Yoshi| AND |Tails| AND |Toy Yoshi| AND |Withered Toy Yoshi|"
+	},
+	{
+		"name": "Winding Away",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|Taingle| AND |Withered Sonic| AND |Withered Mario| AND |Withered Yoshi| AND |Withered Tails| AND |Salvage Sonic| AND |Withered Toy Sonic| AND |Withered Toy Mario| AND |Withered Toy Yoshi| AND |The Toymare|"
+	},
+	{
+		"name": "Abandoned Sonic's 2",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|@FNaS 2:11|"
+	},
+	{
+		"name": "Puppet Play",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|@FNaS 1:5| AND |@FNaS 2:11| AND |@FNaS 3:11| AND |@FNaS 4:6| AND |@FNaS 5:2|"
+	},
+	{
+		"name": "Sonic's 3",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|@FNaS 3:11|"
+	},
+	{
+		"name": "Hectic Hedgehogs",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|Sonic| AND |Toy Sonic| AND |Withered Sonic| AND |Salvage Sonic| AND |Withered Toy Sonic| AND |Nightmare Sonic|"
+	},
+	{
+		"name": "Pipework Plaza",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|Mario| AND |Toy Mario| AND |Luiginette| AND |Withered Mario| AND |Withered Toy Mario| AND |Phantom Mario| AND |Nightmare Mario|"
+	},
+	{
+		"name": "Ground Pound",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|Mario| AND |Yoshi| AND |Withered Mario| AND |Withered Yoshi| AND |Phantom Mario| AND |Phantom Yoshi| AND |Nightmare Mario| AND |Nightmare Yoshi|"
+	},
+	{
+		"name": "Storage Struck",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|Sonic| AND |Mario| AND |Yoshi| AND |Tails| AND |Toy Sonic| AND |Toy Mario| AND |Toy Yoshi| AND |Salvage Sonic| AND |Withered Toy Sonic| AND |Withered Toy Mario| AND |Withered Toy Yoshi| AND |'27 Golden Sonic|"
+	},
+	{
+		"name": "Failed Experiment",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|Tails| AND |'15 Golden Sonic| AND |Withered Tails| AND |'17 Golden Sonic| AND |Phantom Tails| AND |'27 Golden Sonic| AND |Nightmare Tails| AND |Nightmare Golden Sonic| AND |Origin Sonic| AND |Shadow Sonic|"
+	},
+	{
+		"name": "Extinction",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|@FNaS 1:5| AND |@FNaS 2:11| AND |@FNaS 3:11| AND |@FNaS 4:6| AND |@FNaS 5:2|"
+	},
+	{
+		"name": "Toad Rally",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|Balloon Toad| AND |Withered Tails| AND |Salvage Sonic| AND |Phantom Balloon Toad| AND |Nightmare Tails|"
+	},
+	{
+		"name": "Torn Apart",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|Taingle| AND |Withered Sonic| AND |Withered Mario| AND |Withered Yoshi| AND |Withered Tails| AND |Salvage Sonic| AND |Withered Toy Sonic| AND |Withered Toy Mario| AND |Withered Toy Yoshi| AND |Phantom Balloon Toad| AND |Phantom Taingle| AND |Nightmare Tails| AND |The Toymare|"
+	},
+	{
+		"name": "No Strings",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|@FNaS 1:5| AND |@FNaS 2:11| AND |@FNaS 3:11| AND |@FNaS 4:6| AND |@FNaS 5:2|"
+	},
+	{
+		"name": "Burned to Ashes",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|@FNaS 3:11|"
+	},
+	{
+		"name": "Speedy Surroundings",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|Sonic| AND |Toy Sonic| AND |Withered Sonic| AND |Salvage Sonic| AND |Withered Toy Sonic| AND |Nightmare Sonic| AND |The Toymare| AND |Nightmare Golden Sonic|"
+	},
+	{
+		"name": "Mario Mayhem",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|Mario| AND |Toy Mario| AND |Luiginette| AND |Withered Mario| AND |Withered Toy Mario| AND |Phantom Mario| AND |Nightmare Mario| AND |The Toymare|"
+	},
+	{
+		"name": "Dinosaur Dread",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|Yoshi| AND |Tails| AND |Toy Yoshi| AND |Withered Yoshi| AND |Withered Toy Yoshi| AND |Phantom Yoshi| AND |Nightmare Yoshi| AND |Nightmare Tails| AND |The Toymare|"
+	},
+	{
+		"name": "Two-Tailed Trails",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|Tails| AND |Taingle| AND |Withered Tails| AND |Phantom Tails| AND |Nightmare Tails| AND |The Toymare|"
+	},
+	{
+		"name": "Room For One More",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|@FNaS 1:5| AND |@FNaS 2:11| AND |@FNaS 3:11| AND |@FNaS 4:6| AND |@FNaS 5:2|"
+	},
+	{
+		"name": "Chaos Challenge",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|@FNaS 4:6|"
+	},
+	{
+		"name": "'90s Diner",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|@FNaS 1:5| AND |Withered Sonic| AND |Withered Mario| AND |Withered Yoshi| AND |Withered Tails| AND |'17 Golden Sonic| AND |Salvage Sonic| AND |Phantom Mario| AND |Phantom Yoshi| AND |Phantom Tails| AND |'27 Golden Sonic| AND |Nightmare Sonic| AND |Nightmare Mario| AND |Nightmare Yoshi| AND |Nightmare Tails| AND |Nightmare Golden Sonic| AND |@FNaS 5:2|"
+	},
+	{
+		"name": "Bad Future",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|@FNaS 1:5| AND |@FNaS 2:11| AND |@FNaS 3:11| AND |@FNaS 4:6| AND |@FNaS 5:2|"
+	},
+	{
+		"name": "Survive Maniac Mania",
+		"region": "Challenges",
+		"victory": true,
+		"category": ["Challenges"],
+		"requires": "|@FNaS 1:5| AND |@FNaS 2:11| AND |@FNaS 3:11| AND |@FNaS 4:6| AND |@FNaS 5:2|"
+	},
+	{
+		"name": "Maniac Mania",
+		"region": "Challenges",
+		"category": ["Challenges"],
+		"requires": "|@FNaS 1:5| AND |@FNaS 2:11| AND |@FNaS 3:11| AND |@FNaS 4:6| AND |@FNaS 5:2|"
+	},
+	{
+		"name": "Sonic Plushie",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Sonic Plushie|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Mario Plushie",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Mario Plushie|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Yoshi Plushie",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Yoshi Plushie|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Tails Plushie",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Tails Plushie|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "'17 Golden Sonic Plushie",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|'17 Golden Sonic Plushie|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Toy Sonic Plushie",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Toy Sonic Plushie|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Toy Mario Plushie",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Toy Mario Plushie|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Toy Yoshi Plushie",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Toy Yoshi Plushie|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Taingle Plushie",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Taingle Plushie|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Luiginette Plushie",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Luiginette Plushie|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Nightmare Sonic Plushie",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Nightmare Sonic Plushie|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Nightmare Mario Plushie",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Nightmare Mario Plushie|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Nightmare Yoshi Plushie",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Nightmare Yoshi Plushie|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Nightmare Tails Plushie",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Nightmare Tails Plushie|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Toymare Plushie",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Toymare Plushie|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Nightmare Golden Sonic Plushie",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Nightmare Golden Sonic Plushie|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		
+		"name": "Nightmaric Plushie",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Nightmaric Plushie|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Balloon Toad Plushie",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Balloon Toad Plushie|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Lefty Sonic Plushie",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Lefty Sonic Plushie|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Origin Sonic Plushie",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Origin Sonic Plushie|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Hand Prop",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Hand Prop|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Star Prop",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Star Prop|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		
+		"name": "Tails Prop",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Tails Prop|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Purple Prop",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Purple Prop|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Paper Plate Sonic Prop",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Paper Plate Sonic Prop|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Mario Face Prop",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Mario Face Prop|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Smiler's Mask Prop",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Smiler's Mask Prop|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Cone Prop",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Cone Prop|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Power Moons Prop",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Power Moons Prop|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Calendar Prop",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Calendar Prop|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Cupcake Prop",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Cupcake Prop|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Golden Toy Sonic Prop",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Golden Toy Sonic Prop|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Curtain Prop",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Curtain Prop|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Dr. G Monitor Prop",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Dr. G Monitor Prop|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Sonic Light Prop",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Sonic Light Prop|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "#1 Statue Prop",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|#1 Statue Prop|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Hard Mode Origin Sonic Skin",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Hard Mode Origin Sonic Skin|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Hard Mode '15 Golden Sonic Skin",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Hard Mode '15 Golden Sonic Skin|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		
+		"name": "Hard Mode '17 Golden Sonic Skin",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Hard Mode '17 Golden Sonic Skin|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Hard Mode '27 Golden Sonic Skin",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Hard Mode '27 Golden Sonic Skin|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Hard Mode Nightmare Golden Sonic Skin",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Hard Mode Nightmare Golden Sonic Skin|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Hard Mode Shadow Sonic Skin",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|Hard Mode Shadow Sonic Skin|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "The Lunighttemare Skin",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|The Lunighttemare Skin|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "FNaS-Swap!Mario Skin",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|FNaS-Swap!Mario Skin|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "LuigiKid Skin",
+		"region": "Shop",
+		"category": ["Shop"],
+		"requires": "|LuigiKid Skin|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "The Letter",
+		"region": "Shop",
+		"category": ["Shop", "Post-MM"],
+		"requires": "|Giant Bag of Rings|",
+		"dont_place_item_category": ["Currency"],
+		"prehint": true
+	},
+	{
+		"name": "Good Listener",
+		"region": "Achievements",
+		"category": ["Achievements"],
+		"requires": []
+	},
+	{
+		
+		"name": "F",
+		"region": "Achievements",
+		"category": ["Achievements"],
+		"requires": "|'27 Golden Sonic|"
+	},
+	{
+		"name": "Are you there?",
+		"region": "Achievements",
+		"category": ["Achievements"],
+		"requires": []
+	},
+	{
+		"name": "Most Likely Recording an Intro",
+		"region": "Achievements",
+		"category": ["Achievements"],
+		"requires": []
+	},
+	{
+		"name": "Low Power Bills!",
+		"region": "Achievements",
+		"category": ["Achievements"],
+		"requires": "|@Characters:1|"
+	},
+	{
+		"name": "Might Need an Energiser",
+		"region": "Achievements",
+		"category": ["Achievements"],
+		"requires": []
+	},
+	{
+		"name": "Bite of...The Present",
+		"region": "Achievements",
+		"category": ["Achievements"],
+		"requires": "|Origin Sonic|"
+	},
+	{
+		"name": "A Listening Ear",
+		"region": "Achievements",
+		"category": ["Achievements"],
+		"requires": "|Tails|"
+	},
+	{
+		"name": "See this game? I invented it!",
+		"region": "Achievements",
+		"category": ["Achievements"],
+		"requires": "{shopUnlock()} AND |Three Rings:33| AND |Smiler's Mask Prop|"
+	},
+	{
+		"name": "Here, Borrow this!",
+		"region": "Achievements",
+		"category": ["Achievements"],
+		"requires": "|Phantom Balloon Toad|"
+	},
+	{
+		"name": "An Annoying Friend",
+		"region": "Achievements",
+		"category": ["Achievements"],
+		"requires": "{shopUnlock()}"
+	},
+	{
+		"name": "No",
+		"region": "Achievements",
+		"category": ["Achievements"],
+		"requires": []
+	},
+	{
+		"name": "Honk!",
+		"region": "Achievements",
+		"category": ["Achievements"],
+		"requires": "|'17 Golden Sonic|"
+	},
+	{
+		"name": "Mega F",
+		"region": "Achievements",
+		"category": ["Achievements"],
+		"requires": "|Luiginette| OR |'27 Golden Sonic| OR |Nightmare Golden Sonic| OR |Origin Sonic| OR |Shadow Sonic|"
+	},
+	{
+		"name": "Guess he's up now!",
+		"region": "Achievements",
+		"category": ["Achievements"],
+		"requires": []
+	},
+	{
+		"name": "An Absolute Unit of Blood",
+		"region": "Achievements",
+		"category": ["Achievements"],
+		"requires": "|@Characters:1|"
+	},
+	{
+		"name": "Location 50 be like",
+		"region": "Achievements",
+		"category": ["Achievements"],
+		"requires": "|@Characters:1|"
+	},
+	{
+		"name": "Cover Me in Plushies",
+		"region": "Achievements",
+		"category": ["Achievements"],
+		"requires": "{shopUnlock()} AND |Three Rings:33| AND |@Plushies:20|"
+	},
+	{
+		"name": "Interior Designer",
+		"region": "Achievements",
+		"category": ["Achievements"],
+		"requires": "{shopUnlock()} AND |Three Rings:33| AND |@Props:16|"
+	},
+	{
+		"name": "Alter-Ego",
+		"region": "Achievements",
+		"category": ["Achievements"],
+		"requires": "{shopUnlock()} AND |Three Rings:33| AND |@Skins:9|"
+	},
+	{
+		"name": "Keeping Inventory",
+		"region": "Achievements",
+		"category": ["Achievements"],
+		"requires": "|The Letter E|"
+	},
+	{
+		"name": "Luigi is #1!",
+		"region": "Achievements",
+		"category": ["Achievements"],
+		"requires": "{allChallenges()}"
+	},
+	{
+		"name": "Out of Stock!",
+		"region": "Achievements",
+		"category": ["Achievements", "Post-MM"],
+		"requires": "{allChallenges()} AND |Three Rings:33| AND |Giant Bag of Rings| AND |@Plushies:20| AND |@Props:16| AND |@Skins:9|"
+	},
+	{
+		"name": "A True Maniac",
+		"region": "Achievements",
+		"category": ["Achievements"],
+		"requires": "{canReachLocation(Maniac Mania)}"
+	},
+	{
+		"name": "A Salvage Stumped",
+		"region": "Achievements",
+		"category": ["Achievements"],
+		"requires": "|@Characters:1|"
+	},
+	{
+		"name": "Watch it!",
+		"region": "Achievements",
+		"category": ["Achievements"],
+		"requires": "|Balloon Toad| OR ({allChallenges()} AND |@Plushies:20| AND |@Props:16| AND |@Skins:9| AND |Dr. Golden| AND |Toy Tails| AND |Three Rings:33| AND |Giant Bag of Rings|)"
+	},
+	{
+		"name": "Puppetry Panic",
+		"region": "Achievements",
+		"category": ["Achievements"],
+		"requires": "|Luiginette|"
+	},
+	{
+		"name": "The Pizza is Aggressive",
+		"region": "Achievements",
+		"category": ["Achievements", "Post-MM"],
+		"requires": "{allChallenges()} AND |Three Rings:33| AND |Giant Bag of Rings|"
+	},
+	{
+		"name": "The Pizza is...Hard to See?",
+		"region": "Achievements",
+		"category": ["Achievements", "Post-MM"],
+		"requires": "{allChallenges()} AND |Three Rings:33| AND |Giant Bag of Rings|"
+	},
+	{
+		"name": "A Paradox Night",
+		"region": "Achievements",
+		"category": ["Achievements", "Post-MM"],
+		"requires": "{allChallenges()} AND |Three Rings:33| AND |Giant Bag of Rings| AND |Taingle| AND |Toy Tails|"
+	},
+	{
+		"name": "Teh Moosic",
+		"region": "Achievements",
+		"category": ["Achievements", "Post-MM"],
+		"requires": "{allChallenges()} AND |Three Rings:33| AND |Giant Bag of Rings| AND |Sonic| AND |Withered Sonic| AND |Salvage Sonic| AND |Luiginette| AND |Mario| AND |FNaS-Swap!Mario Skin|"
+	},
+	{
+		"name": "G-G-Ghosts!!",
+		"region": "Achievements",
+		"category": ["Achievements"],
+		"requires": "|Phantom Mario| AND |Phantom Yoshi| AND |Phantom Tails| AND (|Balloon Toad| OR ({allChallenges()} AND |Three Rings:33| AND |Giant Bag of Rings| AND |Phantom Salvage Sonic|))"
+	},
+	{
+		"name": "Broken Record of Jumpscares",
+		"region": "Achievements",
+		"category": ["Achievements"],
+		"requires": "{ItemValue(spooper:49)}"
+	},
+	{
+		"name": "Bronze Sonic",
+		"region": "Achievements",
+		"category": ["Achievements", "Survival"],
+		"requires": "|@FNaS 1:1| OR |@FNaS 2:1| OR |@FNaS 3:1| OR |@FNaS 4:1| OR |@FNaS 5:1|"
+	},
+	{
+		"name": "Silver Sonic",
+		"region": "Achievements",
+		"category": ["Achievements", "Survival"],
+		"requires": "|@FNaS 1:1| OR |@FNaS 2:1| OR |@FNaS 3:1| OR |@FNaS 4:1| OR |@FNaS 5:1|"
+	},
+	{
+		"name": "Golden Sonic",
+		"region": "Achievements",
+		"category": ["Achievements", "Survival"],
+		"requires": "|@FNaS 1:1| OR |@FNaS 2:1| OR |@FNaS 3:1| OR |@FNaS 4:1| OR |@FNaS 5:1|"
+	},
+	{
+		"name": "Platinum Sonic",
+		"region": "Achievements",
+		"category": ["Achievements", "Survival"],
+		"requires": "|@FNaS 1:1| OR |@FNaS 2:1| OR |@FNaS 3:1| OR |@FNaS 4:1| OR |@FNaS 5:1|"
+	},
+	{
+		"name": "The Best Reward",
+		"region": "Achievements",
+		"category": ["Achievements", "Post-MM"],
+		"requires": "{allChallenges()} AND |Three Rings:33| AND |Giant Bag of Rings| AND |Balloon Toad|"
+	},
+	{
+		"name": "50 Nights at Sonic's",
+		"region": "Achievements",
+		"category": ["Achievements"],
+		"requires": "|@FNaS 1:5| AND |@FNaS 2:11| AND |@FNaS 3:11| AND |@FNaS 4:6| AND |@FNaS 5:2|"
+	},
+	{
+		"name": "Defeat Phantom Ian",
+		"region": "???",
+		"category": ["HIM"],
+		"requires": [],
+		"victory": true
+	},
+	{
+		"name": "Phantom Ian",
+		"region": "???",
+		"category": ["HIM", "Post-MM"],
+		"requires": [],
+		"place_item": ["Phantom Ian"]
+	},
+	{
+		
+		"name": "Sonic Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": []
+	},
+	{
+		"name": "Mario Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Mario|"
+	},
+	{
+		"name": "Yoshi Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Yoshi|"
+	},
+	{
+		"name": "Tails Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Tails|"
+	},
+	{
+		"name": "'15 Golden Sonic Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|'15 Golden Sonic|"
+	},
+	{
+		"name": "Toy Sonic Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Toy Sonic|"
+	},
+	{
+		"name": "Toy Mario Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Toy Mario|"
+	},
+	{
+		"name": "Toy Yoshi Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Toy Yoshi|"
+	},
+	{
+		"name": "Taingle Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Taingle|"
+	},
+	{
+		"name": "Luiginette Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Luiginette|"
+	},
+	{
+		"name": "Balloon Toad Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": []
+	},
+	{
+		"name": "Withered Sonic Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Withered Sonic|"
+	},
+	{
+		"name": "Withered Mario Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Withered Mario|"
+	},
+	{
+		"name": "Withered Yoshi Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Withered Yoshi|"
+	},
+	{
+		"name": "Withered Tails Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Withered Tails|"
+	},
+	{
+		"name": "'17 Golden Sonic Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|'17 Golden Sonic|"
+	},
+	{
+		"name": "Salvage Sonic Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|@Characters:1| OR |Salvage Sonic|"
+	},
+	{
+		"name": "Withered Toy Sonic Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Withered Toy Sonic|"
+	},
+	{
+		"name": "Withered Toy Mario Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Withered Toy Mario|"
+	},
+	{
+		"name": "Withered Toy Yoshi Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Withered Toy Yoshi|"
+	},
+	{
+		"name": "Phantom Mario Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Phantom Mario|"
+	},
+	{
+		"name": "Phantom Yoshi Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Phantom Yoshi|"
+	},
+	{
+		"name": "Phantom Tails Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Phantom Tails|"
+	},
+	{
+		"name": "'27 Golden Sonic Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|'27 Golden Sonic|"
+	},
+	{
+		"name": "Nightmare Sonic Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Nightmare Sonic|"
+	},
+	{
+		"name": "Nightmare Mario Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Nightmare Mario|"
+	},
+	{
+		"name": "Nightmare Yoshi Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Nightmare Yoshi|"
+	},
+	{
+		"name": "Nightmare Tails Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Nightmare Tails|"
+	},
+	{
+		"name": "The Toymare Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|The Toymare|"
+	},
+	{
+		"name": "Nightmare Golden Sonic Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Nightmare Golden Sonic|"
+	},
+	{
+		"name": "Origin Sonic Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Origin Sonic|"
+	},
+	{
+		"name": "Shadow Sonic Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Shadow Sonic|"
+	},
+	{
+		"name": "Clone Mighty Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Balloon Toad| OR ({allChallenges()} AND |Three Rings:33| AND |Giant Bag of Rings| AND |Clone Mighty|)"
+	},
+	{
+		"name": "Nightmaric Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Balloon Toad| OR ({allChallenges()} AND |Three Rings:33| AND |Giant Bag of Rings| AND |Nightmaric|)"
+	},
+	{
+		"name": "Phantom Salvage Sonic Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Balloon Toad| OR ({allChallenges()} AND |Three Rings:33| AND |Giant Bag of Rings| AND |Phantom Salvage Sonic|)"
+	},
+	{
+		"name": "Phantom Bew Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Balloon Toad| OR ({allChallenges()} AND |Three Rings:33| AND |Giant Bag of Rings| AND |Phantom Bew|)"
+	},
+	{
+		"name": "Plushnic & Plushtails Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Balloon Toad| OR ({allChallenges()} AND |Three Rings:33| AND |Giant Bag of Rings| AND |Plushnic & Plushtails|)"
+	},
+	{
+		"name": "Tails Doll Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Balloon Toad| OR ({allChallenges()} AND |Three Rings:33| AND |Giant Bag of Rings| AND |Tails Doll|)"
+	},
+	{
+		"name": "Toy Tails Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Balloon Toad| OR ({allChallenges()} AND |Three Rings:33| AND |Giant Bag of Rings| AND |Toy Tails|)"
+	},
+	{
+		"name": "Dr. Golden Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "|Balloon Toad| OR ({allChallenges()} AND |Three Rings:33| AND |Giant Bag of Rings| AND |Dr. Golden|)"
+	},
+	{
+		"name": "FNaS-Swap!Mario Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "{shopUnlock()} AND |Three Rings:33| AND |Mario| AND |FNaS-Swap!Mario Skin|"
+	},
+	{
+		"name": "Hard Mode '15 Golden Sonic Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "{shopUnlock()} AND |Three Rings:33| AND |'15 Golden Sonic| AND |Hard Mode '15 Golden Sonic Skin|"
+	},
+	{
+		"name": "The Lunighttemare Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "{shopUnlock()} AND |Three Rings:33| AND |Luiginette| AND |The Lunighttemare Skin|"
+	},
+	{
+		"name": "Hard Mode '17 Golden Sonic Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "{shopUnlock()} AND |Three Rings:33| AND |'17 Golden Sonic| AND |Hard Mode '17 Golden Sonic Skin|"
+	},
+	{
+		"name": "Hard Mode '27 Golden Sonic Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "{shopUnlock()} AND |Three Rings:33| AND |'27 Golden Sonic| AND |Hard Mode '27 Golden Sonic Skin|"
+	},
+	{
+		"name": "Hard Mode Nightmare Golden Sonic Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "{shopUnlock()} AND |Three Rings:33| AND |Nightmare Golden Sonic| AND |Hard Mode Nightmare Golden Sonic Skin|"
+	},
+	{
+		"name": "Hard Mode Origin Sonic Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "{shopUnlock()} AND |Three Rings:33| AND |Origin Sonic| AND |Hard Mode Origin Sonic Skin|"
+	},
+	{
+		"name": "Hard Mode Shadow Sonic Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "{shopUnlock()} AND |Three Rings:33| AND |Shadow Sonic| AND |Hard Mode Shadow Sonic Skin|"
+	},
+	{
+		"name": "LuigiKid Jumpscare",
+		"region": "Jumpscares",
+		"category": ["Jumpscares"],
+		"requires": "{shopUnlock()} AND |Three Rings:33| AND |Balloon Toad| AND |LuigiKid Skin| OR ({allChallenges()} AND |Three Rings:33| AND |Giant Bag of Rings| AND |Phantom Bew| AND |LuigiKid Skin|)"
+	},
+	{
+		"name": "Phantom Ian Jumpscare",
+		"region": "???",
+		"category": ["Jumpscares", "Post-MM"],
+		"requires": "|Phantom Ian|"
+	},
+	{
+		"name": "Encore",
+		"region": "???",
+		"category": ["Challenges"],
+		"requires": "|Phantom Ian|",
+		"victory": true
+	}
+]
