@@ -7,7 +7,7 @@
                 "Using 'goal' as the name of an option let you override some of the generated goal parameters"
             ],
             "display_name": "Goal",
-            "description": "Choose your victory condition.\n- Win Maniac Mania: Win the Maniac Mania challenge.\n- Phantom Ian: Defeat Phantom Ian. His battle unlocks upon completing every Achievement in the game.\n- Encore: Complete the Encore challenge, unlocked after defeating Phantom Ian.",
+            "description": "Choose your victory condition.\n- Win Maniac Mania: Win the Maniac Mania challenge.\n- Phantom Ian: Defeat Phantom Ian. His battle unlocks upon completing every Achievement in the game.\n- Encore: Complete the Encore challenge, unlocked after defeating Phantom Ian.\nWARNING: Setting your Goal to Defeat Phantom Ian or Encore requires you to enable both the Survival and Post-MM Options. Disabling either of them will fail generation.",
             "hidden": false
         },
         "death_link": {

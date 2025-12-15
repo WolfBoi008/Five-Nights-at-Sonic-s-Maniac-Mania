@@ -5,7 +5,7 @@
   },
   "Shop": {
     "connects_to": [],
-    "requires": "{shopUnlock()} AND |Three Rings:33|"
+    "requires": "{shopUnlock()}"
   },
   "Achievements": {
     "connects_to": [],
@@ -13,7 +13,7 @@
   },
   "???": {
     "connects_to": [],
-    "requires": "{ItemValue(spooper:49)} AND |@FNaS 1:5| AND |@FNaS 2:11| AND |@FNaS 3:11| AND |@FNaS 4:6| AND |@FNaS 5:2| AND |Three Rings:33| AND |Giant Bag of Rings| AND |Phantom Salvage Sonic| AND |@Plushies:20| AND |@Props:16| AND |@Skins:9| AND |Dr. Golden| AND |Toy Tails| AND |The Letter E|"
+    "requires": "{ItemValue(spooper:49)} AND |@FNaS 1:5| AND |@FNaS 2:11| AND |@FNaS 3:11| AND |@FNaS 4:6| AND |@FNaS 5:2| AND |Three Rings:33| AND |Giant Bag of Rings| AND |@Plushies:20| AND |@Props:16| AND |The Letter E|"
   },
   "Jumpscares": {
     "connects_to": [],

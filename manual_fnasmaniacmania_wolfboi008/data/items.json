@@ -2,242 +2,242 @@
 	{
 		"count":1,
 		"name": "Sonic",
-		"category": ["FNaS 1", "Characters"],
+		"category": ["FNaS 1", "Characters", "Sonic's 1", "Abandoned Sonic's 1", "Bounce Blade", "Burning Blitz", "Splash Shooter", "Hectic Hedgehogs", "Storage Struck", "Speedy Surroundings", "'90s Diner"],
 		"progression": true,
     	"value": {"spooper":1}
 	},
 	{
 		"count":1,
 		"name": "Mario",
-		"category": ["FNaS 1", "Characters"],
+		"category": ["FNaS 1", "Characters", "Sonic's 1", "Bunny Hop", "Abandoned Sonic's 1", "Plumber Trouble", "Bounce Blade", "Burning Blitz", "Splash Shooter", "Pipework Plaza", "Ground Pound", "Storage Struck", "Mario Mayhem", "'90s Diner"],
 		"progression": true,
     	"value": {"spooper":1}
 	},
 	{
 		"count":1,
 		"name": "Yoshi",
-		"category": ["FNaS 1", "Characters"],
+		"category": ["FNaS 1", "Characters", "Sonic's 1", "Yoshi's Island", "Abandoned Sonic's 1", "Double Dinos", "Bounce Blade", "Burning Blitz", "Splash Shooter", "Ground Pound", "Storage Struck", "Dinosaur Dread", "'90s Diner"],
 		"progression": true,
     	"value": {"spooper":1}
 	},
 	{
 		"count":1,
 		"name": "Tails",
-		"category": ["FNaS 1", "Characters"],
+		"category": ["FNaS 1", "Characters", "Sonic's 1", "Yoshi's Island", "Critter Lab", "Abandoned Sonic's 1", "Double Dinos", "Taingled Foxes", "Bounce Blade", "Burning Blitz", "Splash Shooter", "Storage Struck", "Failed Experiment", "Dinosaur Dread", "Two-Tailed Trails", "'90s Diner"],
 		"progression": true,
     	"value": {"spooper":1}
 	},
 	{
 		"count":1,
 		"name": "'15 Golden Sonic",
-		"category": ["FNaS 1", "Characters"],
+		"category": ["FNaS 1", "Characters", "Sonic's 1", "Abandoned Sonic's 1", "Light Fright", "Failed Experiment", "'90s Diner"],
 		"progression": true,
     	"value": {"spooper":1}
 	},
 	{
 		"count":1,
 		"name": "Toy Sonic",
-		"category": ["FNaS 2", "Characters"],
+		"category": ["FNaS 2", "Characters", "Sonic's 2", "Bounce Blade", "Abandoned Sonic's 2", "Hectic Hedgehogs", "Storage Struck", "Speedy Surroundings"],
 		"progression": true,
     	"value": {"spooper":1}
 	},
 	{
 		"count":1,
 		"name": "Toy Mario",
-		"category": ["FNaS 2", "Characters"],
+		"category": ["FNaS 2", "Characters", "Sonic's 2", "Plumber Trouble", "Burning Blitz", "Abandoned Sonic's 2", "Pipework Plaza", "Storage Struck", "Mario Mayhem"],
 		"progression": true,
     	"value": {"spooper":1}
 	},
 	{
 		"count":1,
 		"name": "Toy Yoshi",
-		"category": ["FNaS 2", "Characters"],
+		"category": ["FNaS 2", "Characters", "Sonic's 2", "Double Dinos", "Splash Shooter", "Abandoned Sonic's 2", "Storage Struck", "Dinosaur Dread"],
 		"progression": true,
     	"value": {"spooper":1}
 	},
 	{
 		"count":1,
 		"name": "Taingle",
-		"category": ["FNaS 2", "Characters"],
+		"category": ["FNaS 2", "Characters", "Sonic's 2", "Taingled Foxes", "Winding Away", "Abandoned Sonic's 2", "Torn Apart", "Two-Tailed Trails"],
 		"progression": true,
     	"value": {"spooper":1}
 	},
 	{
 		"count":1,
 		"name": "Balloon Toad",
-		"category": ["FNaS 2", "Characters"],
+		"category": ["FNaS 2", "Characters", "Sonic's 2", "Light Fright", "Abandoned Sonic's 2", "Toad Rally"],
 		"progression": true,
     	"value": {"spooper":1}
 	},
 	{
 		"count":1,
 		"name": "Luiginette",
-		"category": ["FNaS 2", "Characters"],
+		"category": ["FNaS 2", "Characters", "Bunny Hop", "Sonic's 2", "Plumber Trouble", "Abandoned Sonic's 2", "Pipework Plaza", "Mario Mayhem"],
 		"progression": true,
     	"value": {"spooper":1}
 	},
 	{
 		"count":1,
 		"name": "Withered Sonic",
-		"category": ["FNaS 2", "Characters"],
+		"category": ["FNaS 2", "Characters", "Sonic's 2", "Light Fright", "Winding Away", "Abandoned Sonic's 2", "Hectic Hedgehogs", "Torn Apart", "Speedy Surroundings", "'90s Diner"],
 		"progression": true,
     	"value": {"spooper":1}
 	},
 	{
 		"count":1,
 		"name": "Withered Mario",
-		"category": ["FNaS 2", "Characters"],
+		"category": ["FNaS 2", "Characters", "Bunny Hop", "Sonic's 2", "Plumber Trouble", "Winding Away", "Abandoned Sonic's 2", "Pipework Plaza", "Ground Pound", "Torn Apart", "Mario Mayhem", "'90s Diner"],
 		"progression": true,
     	"value": {"spooper":1}
 	},
 	{
 		"count":1,
 		"name": "Withered Yoshi",
-		"category": ["FNaS 2", "Characters"],
+		"category": ["FNaS 2", "Characters", "Yoshi's Island", "Sonic's 2", "Double Dinos", "Winding Away", "Abandoned Sonic's 2", "Ground Pound", "Torn Apart", "Dinosaur Dread", "'90s Diner"],
 		"progression": true,
     	"value": {"spooper":1}
 	},
 	{
 		"count":1,
 		"name": "Withered Tails",
-		"category": ["FNaS 2", "Characters"],
+		"category": ["FNaS 2", "Characters", "Critter Lab", "Sonic's 2", "Taingled Foxes", "Light Fright", "Winding Away", "Abandoned Sonic's 2", "Failed Experiment", "Toad Rally", "Torn Apart", "Two-Tailed Trails", "'90s Diner"],
 		"progression": true,
     	"value": {"spooper":1}
 	},
 	{
 		"count":1,
 		"name": "'17 Golden Sonic",
-		"category": ["FNaS 2", "Characters"],
+		"category": ["FNaS 2", "Characters", "Sonic's 2", "Abandoned Sonic's 2", "Failed Experiment", "'90s Diner"],
 		"progression": true,
     	"value": {"spooper":1}
 	},
 	{
 		"count":1,
 		"name": "Salvage Sonic",
-		"category": ["FNaS 3", "Characters"],
+		"category": ["FNaS 3", "Characters", "Winding Away", "Sonic's 3", "Hectic Hedgehogs", "Storage Struck", "Toad Rally", "Torn Apart", "Burned to Ashes", "Speedy Surroundings", "'90s Diner"],
 		"progression": true,
     	"value": {"spooper":1}
 	},
 	{
 		"count":1,
 		"name": "Withered Toy Sonic",
-		"category": ["FNaS 3", "Characters"],
+		"category": ["FNaS 3", "Characters", "Bounce Blade", "Winding Away", "Sonic's 3", "Hectic Hedgehogs", "Storage Struck", "Torn Apart", "Burned to Ashes", "Speedy Surroundings"],
 		"progression": true,
     	"value": {"spooper":1}
 	},
 	{
 		"count":1,
 		"name": "Withered Toy Mario",
-		"category": ["FNaS 3", "Characters"],
+		"category": ["FNaS 3", "Characters", "Plumber Trouble", "Burning Blitz", "Winding Away", "Sonic's 3", "Pipework Plaza", "Storage Struck", "Torn Apart", "Burned to Ashes", "Mario Mayhem"],
 		"progression": true,
     	"value": {"spooper":1}
 	},
 	{
 		"count":1,
 		"name": "Withered Toy Yoshi",
-		"category": ["FNaS 3", "Characters"],
+		"category": ["FNaS 3", "Characters", "Double Dinos", "Splash Shooter", "Winding Away", "Sonic's 3", "Storage Struck", "Torn Apart", "Burned to Ashes", "Dinosaur Dread"],
 		"progression": true,
     	"value": {"spooper":1}
 	},
 	{
 		"count":1,
 		"name": "Phantom Mario",
-		"category": ["FNaS 3", "Characters"],
+		"category": ["FNaS 3", "Characters", "Bunny Hop", "Plumber Trouble", "Sonic's 3", "Pipework Plaza", "Ground Pound", "Burned to Ashes", "Mario Mayhem", "'90s Diner"],
 		"progression": true,
     	"value": {"spooper":1}
 	},
 	{
 		"count":1,
 		"name": "Phantom Yoshi",
-		"category": ["FNaS 3", "Characters"],
+		"category": ["FNaS 3", "Characters", "Yoshi's Island", "Double Dinos", "Sonic's 3", "Ground Pound", "Burned to Ashes", "Dinosaur Dread", "'90s Diner"],
 		"progression": true,
     	"value": {"spooper":1}
 	},
 	{
 		"count":1,
 		"name": "Phantom Tails",
-		"category": ["FNaS 3", "Characters"],
+		"category": ["FNaS 3", "Characters", "Critter Lab", "Taingled Foxes", "Sonic's 3", "Failed Experiment", "Burned to Ashes", "Two-Tailed Trails", "'90s Diner"],
 		"progression": true,
     	"value": {"spooper":1}
 	},
 	{
 		"count":1,
 		"name": "Phantom Balloon Toad",
-		"category": ["FNaS 3", "Characters"],
+		"category": ["FNaS 3", "Characters", "Sonic's 3", "Toad Rally", "Torn Apart", "Burned to Ashes"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Phantom Taingle",
-		"category": ["FNaS 3", "Characters"],
+		"category": ["FNaS 3", "Characters", "Taingled Foxes", "Sonic's 3", "Torn Apart", "Burned to Ashes"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "Phantom Luiginette",
-		"category": ["FNaS 3", "Characters"],
+		"category": ["FNaS 3", "Characters", "Plumber Trouble", "Sonic's 3", "Burned to Ashes"],
 		"progression": true
 	},
 	{
 		"count":1,
 		"name": "'27 Golden Sonic",
-		"category": ["FNaS 3", "Characters"],
+		"category": ["FNaS 3", "Characters", "Sonic's 3", "Storage Struck", "Failed Experiment", "Burned to Ashes", "'90s Diner"],
 		"progression": true,
     	"value": {"spooper":1}
 	},
 	{
 		"count":1,
 		"name": "Nightmare Sonic",
-		"category": ["FNaS 4", "Characters"],
+		"category": ["FNaS 4", "Characters", "Hectic Hedgehogs", "Speedy Surroundings", "Chaos Challenge", "'90s Diner"],
 		"progression": true,
     	"value": {"spooper":1}
 	},
 	{
 		"count":1,
 		"name": "Nightmare Mario",
-		"category": ["FNaS 4", "Characters"],
+		"category": ["FNaS 4", "Characters", "Bunny Hop", "Plumber Trouble", "Pipework Plaza", "Ground Pound", "Mario Mayhem", "Chaos Challenge", "'90s Diner"],
 		"progression": true,
     	"value": {"spooper":1}
 	},
 	{
 		"count":1,
 		"name": "Nightmare Yoshi",
-		"category": ["FNaS 4", "Characters"],
+		"category": ["FNaS 4", "Characters", "Yoshi's Island", "Double Dinos", "Ground Pound", "Dinosaur Dread", "Chaos Challenge", "'90s Diner"],
 		"progression": true,
     	"value": {"spooper":1}
 	},
 	{
 		"count":1,
 		"name": "Nightmare Tails",
-		"category": ["FNaS 4", "Characters"],
+		"category": ["FNaS 4", "Characters", "Yoshi's Island", "Critter Lab", "Double Dinos", "Taingled Foxes", "Light Fright", "Failed Experiment", "Toad Rally", "Torn Apart", "Dinosaur Dread", "Two-Tailed Trails", "Chaos Challenge", "'90s Diner"],
 		"progression": true,
     	"value": {"spooper":1}
 	},
 	{
 		"count":1,
 		"name": "The Toymare",
-		"category": ["FNaS 4", "Characters"],
+		"category": ["FNaS 4", "Characters", "Winding Away", "Torn Apart", "Speedy Surroundings", "Mario Mayhem", "Dinosaur Dread", "Two-Tailed Trails", "Chaos Challenge"],
 		"progression": true,
     	"value": {"spooper":1}
 	},
 	{
 		"count":1,
 		"name": "Nightmare Golden Sonic",
-		"category": ["FNaS 4", "Characters"],
+		"category": ["FNaS 4", "Characters", "Failed Experiment", "Speedy Surroundings", "Chaos Challenge", "'90s Diner"],
 		"progression": true,
     	"value": {"spooper":1}
 	},
 	{
 		"count":1,
 		"name": "Origin Sonic",
-		"category": ["FNaS 5", "Characters"],
+		"category": ["FNaS 5", "Characters", "Failed Experiment", "'90s Diner"],
 		"progression": true,
     	"value": {"spooper":1}
 	},
 	{
 		"count":1,
 		"name": "Shadow Sonic",
-		"category": ["FNaS 5", "Characters"],
+		"category": ["FNaS 5", "Characters", "Failed Experiment", "'90s Diner"],
 		"progression": true,
     	"value": {"spooper":1}
 	},

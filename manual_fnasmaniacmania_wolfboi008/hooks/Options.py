@@ -48,10 +48,17 @@ class Survival(Toggle):
     """
     display_name: "Survival"
 
+class PosterLogic(Toggle):
+    """
+    Toggle if the logic of F and Mega F to consider the poster in the office as a controlled way to die.
+    Note that you'll have to click 50 times on the poster within 15 seconds with this enabled.
+    """
+
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
     options["postmm"] = PostMM
     options["survival"] = Survival
+    options["poster_logic"] = PosterLogic
     return options
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options

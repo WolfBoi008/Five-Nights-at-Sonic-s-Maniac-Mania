@@ -40,7 +40,7 @@ def hook_get_filler_item_name(world: World, multiworld: MultiWorld, player: int)
 # Called before regions and locations are created. Not clear why you'd want this, but it's here. Victory location is included, but Victory event is not placed yet.
 def before_create_regions(world: World, multiworld: MultiWorld, player: int):
     goal_name = world.victory_names[world.options.goal]
-    if goal_name == "Defeat Phatom Ian" or "Encore":
+    if goal_name == "Defeat Phantom Ian" or "Encore":
         if world.options.survival.value == False or world.options.postmm.value == False:
             raise OptionError(f"{world.player_name} has either Post-MM Checks and/or Survival Mode Checks disabled with {goal_name} as their Goal. Please do not disable these Options if your Goal is to defeat Phantom Ian or beat the Encore Challenge. The related Achievements/Checks are part of unlocking him and getting to Encore, so you need to do them anyway. If you really don't want to do them, you can just exclude them. If you want to go this route, feel free to contact me to have your save file modified if you're unsure how to do it yourself.")
     pass
