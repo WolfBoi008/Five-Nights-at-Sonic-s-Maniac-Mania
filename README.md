@@ -21,3 +21,8 @@
 - Jumpscares
 - Buying things in the Shop
 - Beating Phantom Ian
+
+## Options
+- Survival and Post-MM: Enable or disable the Checks that are related to Survival Mode or Post-Maniac Mania.
+  - **You must have Maniac Mania as your Goal if you want to disable these.**
+- Poster Logic: Alter the logic of F and Mega F to consider the office poster.
