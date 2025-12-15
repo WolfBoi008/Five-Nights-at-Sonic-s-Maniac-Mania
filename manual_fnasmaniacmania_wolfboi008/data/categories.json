@@ -4,5 +4,95 @@
     },
     "Survival": {
         "yaml_option": ["survival"]
+    },
+    "Sonic's 1": {
+        "hidden": true
+    },
+    "Bunny Hop": {
+        "hidden": true
+    },
+    "Yoshi's Island": {
+        "hidden": true
+    },
+    "Critter Lab": {
+        "hidden": true
+    },
+    "Abandoned Sonic's 1": {
+        "hidden": true
+    },
+    "Sonic's 2": {
+        "hidden": true
+    },
+    "Plumber Trouble": {
+        "hidden": true
+    },
+    "Double Dinos": {
+        "hidden": true
+    },
+    "Taingled Foxes": {
+        "hidden": true
+    },
+    "Light Fright": {
+        "hidden": true
+    },
+    "Bounce Blade": {
+        "hidden": true
+    },
+    "Burning Blitz": {
+        "hidden": true
+    },
+    "Splash Shooter": {
+        "hidden": true
+    },
+    "Winding Away": {
+        "hidden": true
+    },
+    "Abandoned Sonic's 2": {
+        "hidden": true
+    },
+    "Sonic's 3": {
+        "hidden": true
+    },
+    "Hectic Hedgehogs": {
+        "hidden": true
+    },
+    "Pipework Plaza": {
+        "hidden": true
+    },
+    "Ground Pound": {
+        "hidden": true
+    },
+    "Storage Struck": {
+        "hidden": true
+    },
+    "Failed Experiment": {
+        "hidden": true
+    },
+    "Toad Rally": {
+        "hidden": true
+    },
+    "Torn Apart": {
+        "hidden": true
+    },
+    "Burned to Ashes": {
+        "hidden": true
+    },
+    "Speedy Surroundings": {
+        "hidden": true
+    },
+    "Mario Mayhem": {
+        "hidden": true
+    },
+    "Dinosaur Dread": {
+        "hidden": true
+    },
+    "Two-Tailed Trails": {
+        "hidden": true
+    },
+    "Chaos Challenge": {
+        "hidden": true
+    },
+    "'90s Diner": {
+        "hidden": true
     }
 }
