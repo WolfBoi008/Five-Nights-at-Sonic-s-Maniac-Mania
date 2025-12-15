@@ -1,7 +1,7 @@
 # Archipelago Manual for Five Nights at Sonic's: Maniac Mania
 
 ## Notes
-- You must play from a new save file.
+- You must play from a new game. Otherwise you'll have to edit your save file at some point. I may upload a 100% save file and/or info on each value in the save file in the future.
 
 ## Goals
 - Complete the Maniac Mania challenge
