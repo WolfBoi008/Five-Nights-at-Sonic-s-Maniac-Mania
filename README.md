@@ -1,8 +1,7 @@
 # Archipelago Manual for Five Nights at Sonic's: Maniac Mania
 
 ## Notes
-- You must play from a new save file, but you can edit the save file for things such as character skins. I plan to change this in the future (See #12 for details).
-- Shop items are pre-hinted. I want Rings not to appear in the shop, but I believe this currently doesn't work in the latest Manual build.
+- You must play from a new save file.
 
 ## Goals
 - Complete the Maniac Mania challenge
